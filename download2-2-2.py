@@ -6,7 +6,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding = 'utf-8')
 sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 
 imgUrl = "http://post.phinf.naver.net/20150815_34/pepsiman517_1439610314568pDgJw_JPEG/mug_obj_143961031451425077.jpg"
-htmlURL = "http://google.com"
+htmlURL = "http://google.com"   
 
 savePath1 = "D:/최혜진/python/pythonCrawling/section2/test1-2.jpg"
 savePath2 = "D:/최혜진/python/pythonCrawling/section2/index-2.html"
